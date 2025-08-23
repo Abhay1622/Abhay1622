@@ -38,14 +38,14 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-singh-881256297/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhay-kaushal-0a653525a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="amansing7999@gmail.com" target="_blank">
+  <a href="abhaykaushal920@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/amansing7999/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="#" />
   </a>
 </p>
 
