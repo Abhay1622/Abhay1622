@@ -28,9 +28,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-SINGH7999&show_icons=true&theme=gotham" height="120" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-SINGH7999&theme=gotham" height="120" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-SINGH7999&layout=compact&theme=gotham" height="120" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay1622&show_icons=true&theme=gotham" height="120" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay1622&theme=gotham" height="120" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1622&layout=compact&theme=gotham" height="120" alt="Top Languages" />
 </p>
 
 ---
