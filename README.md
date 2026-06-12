@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-abhaykaushal920%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a1a2e&color=16213e" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/abhay-kaushal" target="_blank">
+  <a href="https://linkedin.com/in/abhay-kaushal-0a653525a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a1a2e&color=16213e" />
   </a>
   &nbsp;
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=1a1a2e&color=16213e" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AbhayKaushal&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=Abhay1622&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&labelColor=1a1a2e" />
 </p>
 
 </div>
@@ -246,7 +246,7 @@ Engineered with **Next.js + Gemini API**, featuring interview tracking, XP gamif
 </p>
 
 [![Live](https://img.shields.io/badge/Live-Demo-302b63?style=flat-square&logo=vercel&logoColor=white)](https://your-interviewprep-link.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhayKaushal)
+[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhay1622)
 
 </td>
 <td valign="top" width="33%">
@@ -264,7 +264,7 @@ Real-time room availability and booking management across **100+ properties**, b
 </p>
 
 [![Live](https://img.shields.io/badge/Live-Demo-302b63?style=flat-square&logo=vercel&logoColor=white)](https://your-bookcabin-link.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhayKaushal)
+[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhay1622)
 
 </td>
 <td valign="top" width="33%">
@@ -282,7 +282,7 @@ Drag-and-drop uploads, file search, and filtering with **RBAC-based access contr
 </p>
 
 [![Live](https://img.shields.io/badge/Live-Demo-302b63?style=flat-square&logo=vercel&logoColor=white)](https://your-cloudvault-link.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhayKaushal)
+[![GitHub](https://img.shields.io/badge/Source-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhay1622)
 
 </td>
 </tr>
@@ -302,16 +302,16 @@ Drag-and-drop uploads, file search, and filtering with **RBAC-based access contr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhayKaushal&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&custom_title=GitHub+Overview" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayKaushal&theme=transparent&hide_border=true&stroke=302b63&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&background=0d1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay1622&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&custom_title=GitHub+Overview" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay1622&theme=transparent&hide_border=true&stroke=302b63&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&background=0d1117" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayKaushal&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay1622&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="40%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayKaushal&bg_color=0d1117&color=a78bfa&line=302b63&point=a78bfa&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay1622&bg_color=0d1117&color=a78bfa&line=302b63&point=a78bfa&area=true&hide_border=true" width="98%" />
 
 </div>
 
@@ -328,7 +328,7 @@ Drag-and-drop uploads, file search, and filtering with **RBAC-based access contr
 <br/>
 
 <p align="center">
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/amansing7999/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
   &nbsp;
@@ -372,8 +372,8 @@ If you're building something ambitious — let's talk.
   <img src="https://img.shields.io/badge/abhaykaushal920@gmail.com-302b63?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/abhay-kaushal">
-  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fabhay--kaushal-302b63?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/abhay-kaushal-0a653525a/">
+  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fabhay-kaushal-0a653525a-302b63?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
